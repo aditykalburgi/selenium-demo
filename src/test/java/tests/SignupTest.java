@@ -28,7 +28,7 @@ public class SignupTest extends BaseTest {
     private static final By ROLE_DROPDOWN    = By.cssSelector("select.input-field");
 
     private static final String MY_EMAIL    = "adityakalburgi304@gmail.com";
-    private static final String MY_PASSWORD = "Password@123";
+    private static final String MY_PASSWORD = "Password";
 
     private void jsClick(By locator) {
         WebElement el = driver.findElement(locator);
