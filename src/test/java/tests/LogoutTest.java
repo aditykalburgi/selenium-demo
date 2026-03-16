@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 public class LogoutTest extends BaseTest {
 
-    private static final String VALID_EMAIL    = "adityakalburghi304@gmail.com";
+    private static final String VALID_EMAIL    = "adityakalburgi@gmail.com";
     private static final String VALID_PASSWORD = "Password123";         // ← change
 
     private void loginFirst() {
